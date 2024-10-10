@@ -1,1 +1,19 @@
-[]
+[{
+    "name": "wallow in the valley of despair",
+    "file": "samples/wallow_in_the_valley_of_despair.mp3",
+    "bpm": "120",
+    "loop": "5m"
+  },
+  {
+    "name": "self evident",
+    "file": "samples/self_evident.mp3",
+    "bpm": "120",
+    "loop": "5m"
+  },
+  {
+    "name": "clapping",
+    "file": "samples/clapping.mp3",
+    "bpm": "120",
+    "loop": "5m"
+  }
+]
